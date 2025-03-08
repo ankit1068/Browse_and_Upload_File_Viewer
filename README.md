@@ -31,7 +31,8 @@ This project allows users to browse and upload files and then view them directly
 
 ## Screenshots: 
 ![Screenshot 2025-03-08 174720](https://github.com/user-attachments/assets/af11dd0f-7e20-4da7-9f53-62f87044ceed)
-![Uploading Screenshot 2025-03-08 174839.png…]()
+![Screenshot 2025-03-08 174839](https://github.com/user-attachments/assets/56796fb6-ed95-446b-9454-0f132583fbe7)
+
 
 
 
