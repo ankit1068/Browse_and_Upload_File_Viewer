@@ -46,6 +46,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or support, feel free to reach out at [ankitrajj1068@gmail.com]
-Author- Ankit Kumar
+Author - Ankit Kumar
 ankit1068
 
