@@ -35,15 +35,14 @@ This project allows users to browse and upload files and then view them directly
 
 
 
-
-
 ## Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request with improvements.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Contact-
 
 For any questions or support, feel free to reach out at given details.
 Author - Ankit Kumar
