@@ -45,7 +45,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, feel free to reach out at [ankitrajj1068@gmail.com]
+For any questions or support, feel free to reach out at given contact.
 Author - Ankit Kumar
 ankit1068
 
